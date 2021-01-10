@@ -1,0 +1,43 @@
+.t {
+    display: inline;
+  }
+
+nav {
+    font-family: 'Roboto';font-size: 22px;
+    color: beige;
+}
+header {
+  background-color: NAVY;
+  color: aliceblue;
+}
+nav {
+  background-color: BLUE;
+}
+a {
+  color: beige;
+}
+main {
+  background-color: AQUA;
+  color: black;
+  padding-right: 60px;
+}
+aside {
+  padding-left: 200px;
+  padding-top: 100px;
+}
+aside {
+  padding-top: 0px;
+  padding-left: .5rem;
+  margin-left: .5rem;
+  float: right;
+  font-style: italic;
+  color: black;
+}
+video {
+  padding-left: 150px;
+}
+aside {
+  background-color: white;
+  box-shadow: inset 5px 0 5px -5px #29627e;
+  width: 250px;
+}
